@@ -22,6 +22,7 @@ Exigences fonctionnelles
 6.1.2- Si la tâche est acceptée, elle est exécutée
 
 7-	Changement de l’état de la requête après exécution
+7.1  Affichage de la nouvelle requête. 
 
 8-	Repérer et modifier une Requête
 8.1- Possibilité de repérer et de connaître l’état d’une requête une fois enregistrer
@@ -46,7 +47,7 @@ Exigences fonctionnelles
 
 Exigences non fonctionnelles
 
-12- Interagir avec des autres systèmes
+
 12.2- Le système doit interagir avec le système de gestion des ressources humaines pour obtenir des informations sur les employés.
 12.3- Le système doit interagir avec le système comptable pour contrôler les dépenses associées à l'exécution de chaque requête.
 
