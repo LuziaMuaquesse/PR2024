@@ -26,6 +26,7 @@ Exigences fonctionnelles
 8-	Repérer et modifier une Requête
 8.1- Possibilité de repérer et de connaître l’état d’une requête une fois enregistrer
 8.2- Possibilité de modifier ou d’annuler une requête non approuvée par le chef de département
+8.3- Possiblité d'ajouter une requête proposée par le chef de département
 
 9- Authentification des utilisateurs pour accéder au système
 
@@ -42,7 +43,7 @@ Exigences fonctionnelles
 11.2- Gestion des utilisateurs par groupes (Général, Administrateur, Modificateur, Exécuteur).
 11.2.1- Chaque groupe dispose d'un ensemble de privilèges qui permet l'accès à différentes options (créer une requête, modifier une requête, etc.).
 11.2.2- Chaque membre d'un groupe doit avoir le niveau d'authentification approprié.
-11.2.3- Ces groupes seront prédéfinis dans le système mais peuvent être modifiés ou un nouveau groupe peut être créé.
+
 
 Exigences non fonctionnelles
 
