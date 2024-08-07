@@ -47,6 +47,7 @@ Exigences fonctionnelles
 Exigences non fonctionnelles
 
 12- Interagir avec des autres systèmes
+12.1-Le systeme doit interagir avec le système de formation au employés.
 12.2- Le système doit interagir avec le système de gestion des ressources humaines pour obtenir des informations sur les employés.
 12.3- Le système doit interagir avec le système comptable pour contrôler les dépenses associées à l'exécution de chaque requête.
 
