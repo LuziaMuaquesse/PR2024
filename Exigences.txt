@@ -12,6 +12,7 @@ Exigences fonctionnelles
 4.1- Si la requête est rejetée
      4.1.1- l'employé qui l'a enregistrée peut ajouter plus d’informations et la renvoyer
      4.1.2- Annuler la requête
+     4.1.3- rejeter une requête 
 4.2- Si la requête est approuvée, elle sera assignée au chef TI responsable de l'exécution.
 
 5-	Le chef TI assignera la requête à un membre de son département.
@@ -23,7 +24,7 @@ Exigences fonctionnelles
 
 7-	Changement de l’état de la requête après exécution
 
-8-	Repérer et modifier une Requête
+
 8.1- Possibilité de repérer et de connaître l’état d’une requête une fois enregistrer
 8.2- Possibilité de modifier ou d’annuler une requête non approuvée par le chef de département
 
